@@ -1,0 +1,20 @@
+{
+  "name": "Basics of K.P. Astrology",
+  "short_name": "KP Basics",
+  "description": "Basics of K.P. Astrology: a basic course in English, Hindi and Gujarati with the KP Lens, the KP Lab and ten case studies. Instructor: UPENDRA SINGH BHADORIYA.",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2e2a6e",
+  "theme_color": "#2e2a6e",
+  "lang": "en",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
